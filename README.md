@@ -1,4 +1,4 @@
-# 🤖 myAgent - Autonomous AI Coding Agent
+# myAgent - Autonomous AI Coding Agent
 
 **myAgent** là một trợ lý lập trình thông minh (AI Coding Agent) được xây dựng trên nền tảng **Python**, kết nối với mô hình ngôn ngữ lớn (LLM) qua **OpenRouter / OpenAI API**. Agent có khả năng tự động lên kế hoạch (Planning), khám phá cấu trúc mã nguồn, đọc/ghi tệp tin và thực thi mã Python theo mô hình vòng lặp **ReAct (Reason + Act)**.
 
